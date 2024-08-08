@@ -1,0 +1,19 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="id" value="1721987739025" />
+          <option name="name" value="new" />
+        </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1721987749935" />
+          <option name="name" value="new (1)" />
+          <option name="pathToConfigFileJava" value="D:\apache-maven-3.5.0\ali-formatter.xml" />
+          <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
